@@ -3,7 +3,7 @@
 `
 npm install
 `
-Scrypto
+# Scrypto
 `
 scrypto new-package blocura_contracts
 `
